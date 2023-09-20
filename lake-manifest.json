@@ -4,10 +4,10 @@
  [{"git":
    {"url": "https://github.com/EdAyers/ProofWidgets4",
     "subDir?": null,
-    "rev": "a0c2cd0ac3245a0dade4f925bcfa97e06dd84229",
+    "rev": "44e6673a20fc0449d003983d1e1f472df40f7107",
     "opts": {},
     "name": "proofwidgets",
-    "inputRev?": "v0.0.13",
+    "inputRev?": "v0.0.15",
     "inherited": true}},
   {"git":
    {"url": "https://github.com/mhuisi/lean4-cli.git",
@@ -20,10 +20,10 @@
   {"git":
    {"url": "https://github.com/leanprover-community/mathlib4.git",
     "subDir?": null,
-    "rev": "d56176f12b78a0cf8454d9c2a6e9e8d4954dc58a",
+    "rev": "bfaffcf10e6d088ae7c1c22462cbd7ae46f6c358",
     "opts": {},
     "name": "mathlib",
-    "inputRev?": "d56176f12b78a0cf8454d9c2a6e9e8d4954dc58a",
+    "inputRev?": "bfaffcf10e6d088ae7c1c22462cbd7ae46f6c358",
     "inherited": false}},
   {"git":
    {"url": "https://github.com/gebner/quote4",
@@ -44,7 +44,7 @@
   {"git":
    {"url": "https://github.com/leanprover/std4",
     "subDir?": null,
-    "rev": "e8c27f7d90ee71470558efd1bc197fe55068c748",
+    "rev": "80089ff4cd1808ad1506a62dac557517d9b875ff",
     "opts": {},
     "name": "std",
     "inputRev?": "main",
